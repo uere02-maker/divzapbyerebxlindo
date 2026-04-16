@@ -1,0 +1,42 @@
+🤖 BOT WHATSAPP - INSTRUÇÕES BYERE
+
+📦 COMO USAR:
+
+1. Subir no Railway
+2. Fazer deploy
+3. Abrir logs
+4. Escanear QR Code no WhatsApp
+
+⚙️ COMANDOS:
+
+/entrar [link]
+→ Salva link de grupo
+
+/bc [mensagem]
+→ Envia mensagem para todos contatos
+
+🔐 IMPORTANTE:
+
+- Trocar o número em index.js:
+  SEUNUMERO@s.whatsapp.net
+
+- Não abusar do /bc (risco de ban)
+- Delay já ativado para segurança
+
+🌐 PAINEL:
+
+Acesse pelo link do Railway:
+Mostra quantidade de contatos e links
+
+📁 ARQUIVOS:
+
+- index.js → bot principal
+- server.js → painel web
+- package.json → dependências
+- data.json → banco de dados
+
+🚀 DICAS:
+
+- Use com moderação
+- Prefira contatos que autorizam
+- Evite spam em grupos
